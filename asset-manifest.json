@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/hod-nastavnilka/static/css/main.0b458fbf.chunk.css",
+    "main.css": "/hod-nastavnilka/static/css/main.e0580f16.chunk.css",
     "main.js": "/hod-nastavnilka/static/js/main.164e2b07.chunk.js",
     "main.js.map": "/hod-nastavnilka/static/js/main.164e2b07.chunk.js.map",
     "runtime-main.js": "/hod-nastavnilka/static/js/runtime-main.83bdb555.js",
@@ -10,8 +10,9 @@
     "static/js/2.c425134a.chunk.js.map": "/hod-nastavnilka/static/js/2.c425134a.chunk.js.map",
     "index.html": "/hod-nastavnilka/index.html",
     "static/css/2.170ca112.chunk.css.map": "/hod-nastavnilka/static/css/2.170ca112.chunk.css.map",
-    "static/css/main.0b458fbf.chunk.css.map": "/hod-nastavnilka/static/css/main.0b458fbf.chunk.css.map",
+    "static/css/main.e0580f16.chunk.css.map": "/hod-nastavnilka/static/css/main.e0580f16.chunk.css.map",
     "static/js/2.c425134a.chunk.js.LICENSE.txt": "/hod-nastavnilka/static/js/2.c425134a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/hod-nastavnilka/static/media/fon.91dbfdd2.svg",
     "static/media/logo.d4e91f7f.svg": "/hod-nastavnilka/static/media/logo.d4e91f7f.svg",
     "static/media/persik.ae9f0072.png": "/hod-nastavnilka/static/media/persik.ae9f0072.png"
   },
@@ -19,7 +20,7 @@
     "static/js/runtime-main.83bdb555.js",
     "static/css/2.170ca112.chunk.css",
     "static/js/2.c425134a.chunk.js",
-    "static/css/main.0b458fbf.chunk.css",
+    "static/css/main.e0580f16.chunk.css",
     "static/js/main.164e2b07.chunk.js"
   ]
 }
