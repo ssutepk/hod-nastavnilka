@@ -1,26 +1,28 @@
 {
   "files": {
-    "main.css": "/hod-nastavnilka/static/css/main.e0580f16.chunk.css",
-    "main.js": "/hod-nastavnilka/static/js/main.164e2b07.chunk.js",
-    "main.js.map": "/hod-nastavnilka/static/js/main.164e2b07.chunk.js.map",
+    "main.css": "/hod-nastavnilka/static/css/main.84fd8ab2.chunk.css",
+    "main.js": "/hod-nastavnilka/static/js/main.edbbd2c2.chunk.js",
+    "main.js.map": "/hod-nastavnilka/static/js/main.edbbd2c2.chunk.js.map",
     "runtime-main.js": "/hod-nastavnilka/static/js/runtime-main.83bdb555.js",
     "runtime-main.js.map": "/hod-nastavnilka/static/js/runtime-main.83bdb555.js.map",
     "static/css/2.170ca112.chunk.css": "/hod-nastavnilka/static/css/2.170ca112.chunk.css",
-    "static/js/2.c425134a.chunk.js": "/hod-nastavnilka/static/js/2.c425134a.chunk.js",
-    "static/js/2.c425134a.chunk.js.map": "/hod-nastavnilka/static/js/2.c425134a.chunk.js.map",
+    "static/js/2.7a9c7ef8.chunk.js": "/hod-nastavnilka/static/js/2.7a9c7ef8.chunk.js",
+    "static/js/2.7a9c7ef8.chunk.js.map": "/hod-nastavnilka/static/js/2.7a9c7ef8.chunk.js.map",
     "index.html": "/hod-nastavnilka/index.html",
     "static/css/2.170ca112.chunk.css.map": "/hod-nastavnilka/static/css/2.170ca112.chunk.css.map",
-    "static/css/main.e0580f16.chunk.css.map": "/hod-nastavnilka/static/css/main.e0580f16.chunk.css.map",
-    "static/js/2.c425134a.chunk.js.LICENSE.txt": "/hod-nastavnilka/static/js/2.c425134a.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/hod-nastavnilka/static/media/fon.91dbfdd2.svg",
-    "static/media/logo.d4e91f7f.svg": "/hod-nastavnilka/static/media/logo.d4e91f7f.svg",
+    "static/css/main.84fd8ab2.chunk.css.map": "/hod-nastavnilka/static/css/main.84fd8ab2.chunk.css.map",
+    "static/js/2.7a9c7ef8.chunk.js.LICENSE.txt": "/hod-nastavnilka/static/js/2.7a9c7ef8.chunk.js.LICENSE.txt",
+    "static/media/1.4112f1ee.png": "/hod-nastavnilka/static/media/1.4112f1ee.png",
+    "static/media/2.91a1213b.png": "/hod-nastavnilka/static/media/2.91a1213b.png",
+    "static/media/3.78551ee6.png": "/hod-nastavnilka/static/media/3.78551ee6.png",
+    "static/media/logoz.f8ce324a.svg": "/hod-nastavnilka/static/media/logoz.f8ce324a.svg",
     "static/media/persik.ae9f0072.png": "/hod-nastavnilka/static/media/persik.ae9f0072.png"
   },
   "entrypoints": [
     "static/js/runtime-main.83bdb555.js",
     "static/css/2.170ca112.chunk.css",
-    "static/js/2.c425134a.chunk.js",
-    "static/css/main.e0580f16.chunk.css",
-    "static/js/main.164e2b07.chunk.js"
+    "static/js/2.7a9c7ef8.chunk.js",
+    "static/css/main.84fd8ab2.chunk.css",
+    "static/js/main.edbbd2c2.chunk.js"
   ]
 }
